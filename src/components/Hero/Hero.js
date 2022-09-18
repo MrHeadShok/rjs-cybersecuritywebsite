@@ -13,7 +13,7 @@ function Hero() {
             <Container>
                 <MainHeading>We value your data, it is safe with us</MainHeading>
                     <HeroText>
-                        We got sustainable, cost effective security systems for customers all arround the globe.
+                        We got sustainable, cost effective security systems for customers all around the globe.
                     </HeroText>
                     <ButtonWrapper>
                         <Link to="signup">

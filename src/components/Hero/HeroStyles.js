@@ -17,6 +17,7 @@ export const HeroVideo= styled.video `
     top: 0;
     position: absolute;
     z-index: -1;
+    filter:opacity(80%);
 `;
 
 export const HeroText= styled.p `
@@ -26,6 +27,7 @@ export const HeroText= styled.p `
     text-align: center;
     letter-spacing: 2px;
     color: #fff;
+    font-weight: bolder;
 `;
 
 export const ButtonWrapper= styled.div`

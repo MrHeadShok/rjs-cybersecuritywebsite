@@ -10,6 +10,6 @@ export const data=[
     },
     {
         to:'/signup',
-        text:'Contact'
+        text:'Sign up'
     }
 ]
