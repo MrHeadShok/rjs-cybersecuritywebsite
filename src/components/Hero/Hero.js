@@ -8,7 +8,7 @@ const hero=require("../../rsc/hero.mov");
 function Hero() {
     return (
         <HeroSection>
-            <HeroVideo src={hero} autoPlay loop muted/>
+            <HeroVideo src={hero} autoPlay loop muted playsInline/>
 
             <Container>
                 <MainHeading>We value your data, it is safe with us</MainHeading>
